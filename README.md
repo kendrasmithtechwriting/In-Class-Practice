@@ -11,5 +11,8 @@ I typically use Microsoft Word to type my documents. I find it simple to use and
 # Practice
 ## Using git hub for the first time
 While practicing *github* I can use **symbols** instead of clicking on formatting tools. 
-I feel like once I am more familiar with the way raw text works and the way github works, I will use it more often. But I will say, I am struggling to grasp the idea of not seeing the layout of the document. ---bullet
+I feel like once I am more familiar with the way raw text works and the way github works, I will use it more often. But I will say, I am struggling to grasp the idea of not seeing the layout of the document.
+- bullet
+- bullet
+- bullet
 

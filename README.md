@@ -7,7 +7,7 @@ I typically use Microsoft Word to type my documents. I find it simple to use and
 *italics*
 ##subheading
 **bold** 
-[inside will be outside text] (url) >quote
+[inside will be outside text] (www.github.com) >quote
 # Practice
 ## Using git hub for the first time
 While practicing *github* I can use **symbols** instead of clicking on formatting tools. 
@@ -16,3 +16,4 @@ I feel like once I am more familiar with the way raw text works and the way gith
  _ bullet list
  _ bullet list
  _ bullet list
+ The bullet format is not working, what am I doing wrong. 

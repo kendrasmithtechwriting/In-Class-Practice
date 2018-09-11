@@ -3,7 +3,7 @@ Current Writing Style-- In Class Assignment
 ## Tools Used
 I typically use Microsoft Word to type my documents. I find it simple to use and the format gives me a peace of mind because I can see the layout of the document. To back up m files, I use OneDrive and it downloads to my phone, my tablet, and my computer. If I am on an outside resoruce computer, not my own, I will save the document and email it to myself. Once back at my own device, I will download the document and then save it to my OneDrive. I do have a flash drive that I use in random scenarios, but I do not use it frequently in fear of losing it, resulting in losing all of my work.
 ## Practicing the Symbols
-# is a title;
+# is a title
 *italics*
 ##subheading
 **bold** 

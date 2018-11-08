@@ -19,4 +19,3 @@ I feel like once I am more familiar with the way raw text works and the way gith
 
 You must use a space between the symbol and the word in order for it to work. 
 With the exception of **bold**, *italics*, and ***bold italics***
- (https://health.clevelandclinic.org/know-salt-hiding-food/) 
